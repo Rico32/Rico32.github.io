@@ -1,0 +1,28 @@
+@import'reset.css';
+
+#page {
+	width: 75%;
+	margin: 0 auto;
+}
+
+
+header li {
+display: inline-block;
+margin: 10px;
+}
+
+header {
+	text-align: center;
+}
+
+body {
+	background-image: url(https://soullfire.files.wordpress.com/2015/07/reserve-bar.gif);
+}
+
+
+
+
+
+
+
+
